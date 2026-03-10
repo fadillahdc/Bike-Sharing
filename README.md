@@ -20,4 +20,4 @@ streamlit run dashboard/dashboard.py
 
 ## Run Live Streamlit App
 
-https://geraldairquality.streamlit.app/
+https://fdcbike.streamlit.app/
